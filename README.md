@@ -105,6 +105,6 @@ flowchart TD
 
 ## Licencia
 
-Este proyecto utiliza la licencia MIT, ya que permite utilizar, copiar y modificar el código libremente, siempre que se mantenga el aviso de derechos de autor.
+Este proyecto utiliza la licencia MIT, porque te deja utilizar, copiar y modificar el código libremente, siempre que se mantenga el aviso de derechos de autor.
 
-Puedes consultar la licencia completa en [LICENSE](LICENSE).
+Puedes mirar la licencia completa en [LICENSE](LICENSE).
