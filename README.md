@@ -102,3 +102,9 @@ flowchart TD
     D --> E[Resultado HTML]
     E --> B
 ```
+
+## Licencia
+
+Este proyecto utiliza la licencia MIT, ya que permite utilizar, copiar y modificar el código libremente, siempre que se mantenga el aviso de derechos de autor.
+
+Puedes consultar la licencia completa en [LICENSE](LICENSE).
