@@ -1,11 +1,11 @@
 # Práctica 1PHP
 Este proyecto contiene todos los ejercicios realizados en PHP en la práctica 1.
 
-## Actividades del proyecto
+## Actividades del Proyecto
 
 En este proyecto se realizan diferentes ejercicios para practicar PHP y HTML.
 
-### Ejercicios realizados
+### Ejercicios Hechos
 
 - Actividad 1: Presentación personal.
 - Actividad 2: Creación de la tabla de multiplicar.
@@ -33,3 +33,7 @@ Puedes mirar la documentación oficial de PHP en el siguiente enlace:
 ## Logo de PHP
 
 ![Logo de PHP](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)
+
+## Historial de Cambios
+Aquí se guardará todos los cambios que hagamos en la Práctica 1.
+[Ver historial de cambios](CHANGELOG.md)
