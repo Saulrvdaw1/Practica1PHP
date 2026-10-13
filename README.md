@@ -55,3 +55,10 @@ Aquí se guardará todos los cambios que hagamos en la Práctica 1.
 
 > [!WARNING]
 > Es importante iniciar Apache desde XAMPP antes de ejecutar los ejercicios en el navegador o tener otro servidor para poder visualizarlo.
+
+
+## Información adicional
+
+Los ejercicios se pueden ejecutar utilizando XAMPP[^1].
+
+[^1]: XAMPP es un paquete que incluye Apache, MariaDB, PHP y Perl.
