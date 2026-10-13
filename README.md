@@ -62,3 +62,37 @@ Aquí se guardará todos los cambios que hagamos en la Práctica 1.
 Los ejercicios se pueden ejecutar utilizando XAMPP[^1].
 
 [^1]: XAMPP es un paquete que incluye Apache, MariaDB, PHP y Perl.
+
+## Preguntas frecuentes
+
+<details>
+<summary>¿Cómo puedo ejecutar los ejercicios?</summary>
+
+Para ejecutar los ejercicios debes iniciar Apache en XAMPP y abrirlos desde el navegador usando localhost.
+
+</details>
+
+<details>
+<summary>¿Qué tecnologías se utilizan?</summary>
+
+En este proyecto se utilizan PHP y HTML.
+
+</details>
+
+<details>
+<summary>¿Necesito instalar algún programa?</summary>
+
+Sí, necesitas un entorno de desarrollo como XAMPP y un editor de código como Visual Studio Code.
+
+</details>
+
+## Funcionamiento de la aplicación
+
+```mermaid
+flowchart TD
+    A[Usuario] --> B[Navegador]
+    B --> C[Servidor Apache]
+    C --> D[Archivos PHP]
+    D --> E[Resultado HTML]
+    E --> B
+```
