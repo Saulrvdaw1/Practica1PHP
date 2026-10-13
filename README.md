@@ -1,4 +1,5 @@
 # Práctica 1PHP
+
 Este proyecto contiene todos los ejercicios realizados en PHP en la práctica 1.
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4)
@@ -12,7 +13,7 @@ En este proyecto se realizan diferentes ejercicios para practicar PHP y HTML.
 ## Ejercicios Hechos
 
 | Actividad | Descripción |
-|:----------:|:------------|
+| :---: | :--- |
 | Actividad 1 | Presentación personal |
 | Actividad 2 | Creación de la tabla de multiplicar |
 | Actividad 3 | Notas de alumnos |
@@ -35,15 +36,14 @@ Puedes mirar la documentación oficial de PHP en el siguiente enlace:
 
 [Documentación de PHP](https://www.php.net/manual/es/)
 
-
 ## Logo de PHP
 
 ![Logo de PHP](https://cdn-icons-png.flaticon.com/512/5968/5968332.png)
 
 ## Historial de Cambios
+
 Aquí se guardará todos los cambios que hagamos en la Práctica 1.
 [Ver historial de cambios](CHANGELOG.md)
-
 
 ## Tareas pendientes
 
@@ -58,10 +58,8 @@ Aquí se guardará todos los cambios que hagamos en la Práctica 1.
 
 > [!NOTE]
 > Para ejecutar los ejercicios es necesario tener PHP instalado.
-
 > [!WARNING]
 > Es importante iniciar Apache desde XAMPP antes de ejecutar los ejercicios en el navegador o tener otro servidor para poder visualizarlo.
-
 
 ## Información adicional
 
