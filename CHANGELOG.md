@@ -6,11 +6,11 @@ En este documento se registran los cambios realizados en el proyecto Practica1.
 
 ### Added
 
-- Actividad 1: Presentación personal en PHP.
-- Actividad 2: Creación de tablas.
-- Actividad 3: Trabajo con alumnos.
-- Actividad 4: Formulario de registro.
-- Actividad 6: Agenda.
+- Actividad 1: Presentación personal.
+- Actividad 2: Creación de la tabla de multiplicar.
+- Actividad 3: Notas de alumnos.
+- Actividad 4: Formulario de registro con pequeñas validaciones.
+- Actividad 6: Agenda de contactos.
 
 ## [Unreleased]
 
