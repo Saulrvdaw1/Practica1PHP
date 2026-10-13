@@ -1,6 +1,10 @@
 # Práctica 1PHP
 Este proyecto contiene todos los ejercicios realizados en PHP en la práctica 1.
 
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4)
+
+![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
+
 ## Actividades del Proyecto
 
 En este proyecto se realizan diferentes ejercicios para practicar PHP y HTML.
