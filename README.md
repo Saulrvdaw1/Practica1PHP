@@ -47,3 +47,11 @@ Aquí se guardará todos los cambios que hagamos en la Práctica 1.
 - [x] Crear el archivo CHANGELOG.md.
 - [ ] Revisar la documentación del proyecto.
 - [ ] Completar los ejercicios de Markdown.
+
+## Avisos importantes
+
+> [!NOTE]
+> Para ejecutar los ejercicios es necesario tener PHP instalado.
+
+> [!WARNING]
+> Es importante iniciar Apache desde XAMPP antes de ejecutar los ejercicios en el navegador o tener otro servidor para poder visualizarlo.
