@@ -12,7 +12,7 @@ En este documento se registran los cambios realizados en el proyecto Practica1.
 - Actividad 4: Formulario de registro con pequeñas validaciones.
 - Actividad 6: Agenda de contactos.
 
-## [Unreleased]
+## [Unreleased] <!-- Cambios realizados en el proyecto que todavía no se han publicado en una nueva versión. -->
 
 ### Changed
 
