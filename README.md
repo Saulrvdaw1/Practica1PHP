@@ -5,13 +5,15 @@ Este proyecto contiene todos los ejercicios realizados en PHP en la práctica 1.
 
 En este proyecto se realizan diferentes ejercicios para practicar PHP y HTML.
 
-### Ejercicios Hechos
+## Ejercicios Hechos
 
-- Actividad 1: Presentación personal.
-- Actividad 2: Creación de la tabla de multiplicar.
-- Actividad 3: Notas de alumnos.
-- Actividad 4: Formulario de registro con pequeñas validaciones.
-- Actividad 6: Agenda de contactos.
+| Actividad | Descripción |
+|:----------:|:------------|
+| Actividad 1 | Presentación personal |
+| Actividad 2 | Creación de la tabla de multiplicar |
+| Actividad 3 | Notas de alumnos |
+| Actividad 4 | Formulario de registro con pequeñas validaciones |
+| Actividad 6 | Agenda de contactos |
 
 ## Información del proyecto
 
