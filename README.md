@@ -37,3 +37,13 @@ Puedes mirar la documentación oficial de PHP en el siguiente enlace:
 ## Historial de Cambios
 Aquí se guardará todos los cambios que hagamos en la Práctica 1.
 [Ver historial de cambios](CHANGELOG.md)
+
+
+## Tareas pendientes
+
+- [x] Crear los ejercicios de PHP.
+- [x] Subir el proyecto a GitHub.
+- [x] Crear el archivo README.md.
+- [x] Crear el archivo CHANGELOG.md.
+- [ ] Revisar la documentación del proyecto.
+- [ ] Completar los ejercicios de Markdown.
